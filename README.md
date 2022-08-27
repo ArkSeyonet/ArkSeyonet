@@ -1,1 +1,1 @@
-![Xorzo](https://github-readme-stats.vercel.app/api?username=ArkSeyonet&count_private=true&show_icons=true&title_color=378cbf&text_color=ffffff&icon_color=378cbf&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false)
+![ArkSeyonet](https://github-readme-stats.vercel.app/api?username=ArkSeyonet&count_private=true&show_icons=true&title_color=378cbf&text_color=ffffff&icon_color=378cbf&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false)
